@@ -1,0 +1,12 @@
+.fst{
+    border: 1px solid rgb(255, 208, 0);
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+.fstM{
+    display: flex;
+    align-content: flex-start;
+    /* align-items: flex-start; */
+}
